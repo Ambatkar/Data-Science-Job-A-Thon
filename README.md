@@ -26,7 +26,7 @@ _Adding Features before EDA_ <br>
 📅 *EDA* Reviewing the Data at first we can see that 
 
 - Employee working for the long time are not leaving the Job.<br>
-- Employee Aged 21-24 and 48+ have hire attrition rates.<br>
+- Employee Aged 21-24 and 48+ have higher attrition rates.<br>
 - Employee with Relatively less salaried, left the company.<br>
 - Male having higher Bussiness tend to work.<br>
 
