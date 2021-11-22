@@ -41,5 +41,5 @@ Among these Model SVM with GridSearchCV Performed the Best which gave *76.78%*
 *Ending Note and What Did I learn:
   - I Scored 65.05% Score on Leader Board on SVM with GridSearchCV but My earlier Predictions with Default SVM model (With Education Added in features gave 70.10% on LeaderBoard) 
   - In the code file i have not used Employee Education Feature, Initially it did gave a better results in the compitition but Final board says different
-  - I could have use more effient Algorithms Like GradientBoost or CatBoost
+  - I could have use more efficient Algorithms Like GradientBoost or CatBoost
  
